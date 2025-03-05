@@ -6,7 +6,7 @@
 
           "src": "..",
           "files": [
-            "external/src/FishyFlip/*.csproj"
+            "external/FishyFlip/src/FishyFlip/*.csproj"
           ]
         }
       ],
