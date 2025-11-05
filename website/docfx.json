@@ -6,7 +6,9 @@
 
           "src": "..",
           "files": [
-            "external/FishyFlip/src/FishyFlip/*.csproj"
+            "external/FishyFlip/src/FishyFlip/*.csproj",
+            "external/FishyFlip/src/FishyFlip.Xrpc/*.csproj",
+            "external/FishyFlip/src/FishyFlip.AspNetCore/*.csproj"
           ]
         }
       ],
